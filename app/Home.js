@@ -29,7 +29,7 @@ export default function Page({ navigation }) {
     };
 
     const onRefresh = () => {
-        fetchData(); // If you want to refresh the data from the server
+        fetchData(); 
     };
 
     const onAdd = () => {
